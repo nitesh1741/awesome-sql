@@ -1,0 +1,10 @@
+-- Rank products by sales within each category
+-- Get latest order per user
+-- Find second highest spending user
+-- Get running total of revenue by date
+-- Find duplicate users based on email
+-- Get top 3 products per category
+-- Find users whose spending is above average
+-- Find gap between consecutive orders per user
+-- Identify first purchase date per user
+-- Find most active users based on events
